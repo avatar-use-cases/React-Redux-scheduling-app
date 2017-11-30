@@ -1,0 +1,9 @@
+node_modules
+.vscode
+src/client/public/*
+!src/client/public/index.html
+.DS_Store
+.idea
+npm-debug.log
+.env
+.git
